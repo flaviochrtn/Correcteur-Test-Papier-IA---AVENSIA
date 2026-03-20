@@ -1,0 +1,5 @@
+{
+  "name": "Correcteur Test Papier AI",
+  "description": "Analysez et corrigez des copies d'étudiants (PDF ou images) automatiquement en utilisant le corrigé officiel.",
+  "requestFramePermissions": []
+}
